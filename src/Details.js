@@ -36,7 +36,7 @@ class Details extends React.Component {
                     <table>
                         <thead >
                             <tr >
-                                <th > Countries </th>
+                                <th> Countries </th>
                                 <th> New Confirmed </th>
                                 <th> Total Recovered </th>
                                 <th> Total Deaths </th>
